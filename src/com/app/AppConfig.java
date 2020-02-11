@@ -1,5 +1,6 @@
 package com.app;
 
+
 import java.util.Properties;
 
 import org.springframework.context.annotation.Bean;
